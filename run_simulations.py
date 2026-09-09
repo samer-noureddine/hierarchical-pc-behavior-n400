@@ -6,8 +6,8 @@ from scipy.stats import ttest_1samp
 
 from get_summary import *
 from orth_neighborhood_utils import *
-from PredictiveCoding_Model import *
-from stimulus_creation_script_alt import *
+from predictive_coding_model import *
+from create_stimulus_counterbalanced_lists import *
 
 import os
 import random
