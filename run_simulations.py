@@ -15,7 +15,7 @@ import numpy as np
 import pandas as pd
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
-
+os.makedirs("data", exist_ok=True)
 random.seed(1)
 np.random.seed(1)
 
