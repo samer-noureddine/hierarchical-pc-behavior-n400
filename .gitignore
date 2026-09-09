@@ -1,2 +1,3 @@
 *.pbz2
 /gpt_semfeats/
+helper_txt_files/4_runs_Kmeans_4000.csv
