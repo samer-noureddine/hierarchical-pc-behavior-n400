@@ -1,4 +1,8 @@
-# Reproducing the Simulations
+# Predictive coding unifies neural and behavioral signatures of contextual facilitation
+
+Code for the paper "Predictive coding unifies neural and behavioral signatures of contextual facilitation"
+
+## Reproducing the Simulations
 
 To reproduce the simulation data and figures reported in the paper, run:
 
