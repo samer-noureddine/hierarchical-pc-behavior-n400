@@ -6,7 +6,7 @@ from scipy.stats import ttest_1samp
 
 from get_summary import *
 from orth_neighborhood_utils import *
-from predictive_coding_model import *
+from PredictiveCoding_Model import *
 from create_stimulus_counterbalanced_lists import *
 
 import os
